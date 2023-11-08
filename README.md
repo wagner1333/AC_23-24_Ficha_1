@@ -28,3 +28,15 @@ P1 - Resposta:
 P2 - Resposta:
 
     ...
+
+### P3. Descreve o ciclo *fetch-decode-execute* num processador, detalhando cada etapa e explicando a sua importância na execução de programas de computador
+
+- Fornece uma explicação detalhada da fase de busca de instrução, incluindo o que ela envolve e por que é importante na operação do processador.
+- Explica a fase de descodificação e o seu papel na interpretação das instruções de execução.
+- Descreve a fase de execução, destacando a execução propriamente dita das instruções e quaisquer interações com dados.
+- Conclui explicando a ordem destas fases e como elas garantem a execução adequada dos programas de computador.
+- Usa um diagrama para ilustrar o ciclo.
+
+P3 - Resposta:
+
+    ...
