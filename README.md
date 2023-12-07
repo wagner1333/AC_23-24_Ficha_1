@@ -103,4 +103,28 @@ P2 - Resposta:
 
 P3 - Resposta:
 
-    ...
+1 - 
+A fase de busca de instrução é vital para a CPU. Ela busca a próxima instrução na memória, decodifica-a e garante que as operações sejam executadas na ordem correta. Isso mantém a CPU ocupada, sincronizada e ajuda no desempenho geral do sistema.
+2 - 
+A fase de decodificação segue a busca de instruções, interpretando o código binário para identificar a operação a ser realizada, os operandos envolvidos e preparando a CPU para executar a instrução. Garante que a CPU compreenda corretamente a instrução e a execute de acordo com a intenção do programa.
+3 - 
+Na fase de execução, a CPU realiza as operações das instruções usando as unidades funcionais e os dados preparados. Isso inclui cálculos, manipulação de dados e acesso à memória, se necessário, resultando na atualização dos registros da CPU e na obtenção de resultados para instruções subsequentes.
+4 - Busca: Começa com a obtenção da próxima instrução na memória. Isso garante que o processador sempre tenha uma instrução pronta para execução, mantendo a CPU ocupada e o fluxo do programa contínuo.
+
+Decodificação: Após a busca, a CPU interpreta a instrução, identifica a operação a ser realizada e prepara os recursos necessários. Isso é crucial para garantir que a CPU compreenda corretamente o que precisa ser feito.
+
+Execução: Aqui, a CPU de fato executa a operação especificada pela instrução, usando as unidades funcionais e manipulando os dados conforme necessário. Isso resulta na atualização dos registros e possivelmente na memória, preparando o terreno para a próxima instrução.
+
+Essa sequência é vital para a execução adequada dos programas porque garante:
+
+Ordem correta: Assegura que as instruções sejam executadas na sequência correta, mantendo a lógica do programa.
+
+Interpretação precisa: Cada fase prepara o terreno para a seguinte, garantindo que a CPU entenda corretamente o que cada instrução requer.
+
+Utilização eficiente dos recursos: Ao manter a CPU ocupada com instruções prontas para execução, otimiza-se o desempenho do sistema.
+5 - Fase de Busca: O PC (Contador de Programa) aponta para a próxima instrução na memória. A instrução é buscada na memória e trazida para a CPU.
+
+Decodificação: A instrução é interpretada e decodificada para determinar a operação a ser realizada e os recursos necessários.
+
+Execução: A operação é realizada utilizando as unidades funcionais e os operandos, resultando na atualização de registros e possivelmente da memória.
+
